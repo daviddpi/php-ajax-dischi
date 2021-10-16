@@ -22,7 +22,7 @@ include_once __DIR__ . '/db/dataBase.php';
 <body>
     <div class="container">
         <div class="row gy-2">
-            <div class="col-12 mb-5 text-center">
+            <div class="col-12 text-center mb-5">
                 <h1>Spotify</h1>
             </div>
             <?php //var_dump($dischi);?>
